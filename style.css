@@ -1,5 +1,12 @@
 .header{
- width: 30px;   
- height: 10px;
+ width: 350px;   
+ height: 150px;
  background-color: blueviolet;
+}
+
+.list{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    color: aqua;
+    position: fixed;
 }
